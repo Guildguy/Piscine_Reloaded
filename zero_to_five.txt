@@ -1,0 +1,15 @@
+I´m writting with VIM text editor, and from exercice zero to five it´s shell exercices 
+here i'll talk about them, but only what i've done and for what
+
+exe0: Create some files and directories, and then use the command ls -l to see the permissions, timestamps, and whatsoever. Zip then in a file called exo.tar.
+
+I've made changes of permissions with chmod, changed the timestamp with touch, the file size with trucate, and for links I've used the ln command, the last thing was zip them in a tar file with tar -cf exo.tar * command.
+------
+
+exe1: Create an file with z name that returns a Z with cat command.
+
+i've created a vim file and put the word Z in there
+
+------
+
+exe2: 
